@@ -10,8 +10,8 @@ I build AI systems that don't make things up, stay cheap at scale, and work for 
 
 - 🥇 **Sehat Saathi**: voice-only medicine assistant for people who can't read their prescriptions. *1st, Qwen AI Buildathon 2026*
 - 🥇 **[Sach Batao](https://github.com/codewithfourtix/sachbatao)**: WhatsApp bot that catches Urdu scam messages. *1st of 165 teams, Code for Pakistan AI Civics 2026*
-- 🥇 **[front-desk](https://github.com/codewithfourtix/front-desk)**: [TODO one line]. *1st, AICOO Hackathon*
-- 🥉 **[Chhaon](https://chhaon-intel.vercel.app)**: maps where Lahore lost its shade and ranks where to replant. *3rd, [TODO event]*
+- 🥇 **[front-desk](https://github.com/codewithfourtix/front-desk)**: FrontDesk turns your AICOO assistant into one shareable link that you can drop in your bio and book real meetings with it.  *1st, AICOO Hackathon*
+- 🥉 **[Chhaon](https://chhaon-intel.vercel.app)**: maps where Lahore lost its shade and ranks where to replant. *3rd, Smart City Hackathon*
 
 <sub>All team builds. Also competed at MIT iQuHACK 2025, YQuantum 2025, Uplift AI × Replit and the UBL Innovation Hackathon.</sub>
 
@@ -21,9 +21,9 @@ I build AI systems that don't make things up, stay cheap at scale, and work for 
 
 | Where | What I built |
 |---|---|
-| **Systems Limited** · AI Eng. Intern · 2026 | Multi-agent product discovery (LangGraph, pgvector): case-solver subgraph, LLM-as-judge evals, embedding A/B tests |
-| **Digital Intellix** · SWE & Product Lead · 2025–26 | AI monitoring & evaluation platform: forecasting + report-writing agents, owned spec to ship |
-| **Fatima Group** · AI Eng. Intern · 2025 | Retrieval benchmarks for a 5,000-user enterprise RAG bot; ~15% lower token cost |
+| **Systems Limited** · AI Eng. Intern · 2026 | Multi-agent product discovery Design (LangGraph, pgvector): Database Design, ORMs, AI infrastructure,  LLM-as-judge evals, embedding A/B tests |
+| **Digital Intellix** · SWE & Product Lead · 2025–26 | AI monitoring & evaluation platform for Non Profits: forecasting + report-writing agents, owned spec to ship |
+| **Fatima Group** · AI Eng. Intern · 2025 | Retrieval benchmarks for a 5,000-user enterprise RAG bot, Human Resource Chatbot Design; ~15% lower token cost |
 
 ---
 
