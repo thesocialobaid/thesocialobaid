@@ -12,6 +12,7 @@ I build AI systems that don't make things up, stay cheap at scale, and work for 
 - 🥇 **[Sach Batao](https://github.com/codewithfourtix/sachbatao)**: WhatsApp bot that catches Urdu scam messages. *1st of 165 teams, Code for Pakistan AI Civics 2026*
 - 🥇 **[front-desk](https://github.com/codewithfourtix/front-desk)**: FrontDesk turns your AICOO assistant into one shareable link that you can drop in your bio and book real meetings with it.  *1st, AICOO Hackathon*
 - 🥉 **[Chhaon](https://chhaon-intel.vercel.app)**: maps where Lahore lost its shade and ranks where to replant. *3rd, Smart City Hackathon*
+- 🥉 **[Deramandi](https://deramandi.vercel.app/)**: web app for crop farmers in DG Khan, to get fair market rates as per his crops. *Judges Choice, Imagination*
 
 <sub>All team builds. Also competed at MIT iQuHACK 2025, YQuantum 2025, Uplift AI × Replit and the UBL Innovation Hackathon.</sub>
 
